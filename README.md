@@ -2,7 +2,7 @@
 
 <p>-UI</p>
 <p>-Admin paneli</p>
-<p>Login Paneli</p>
+<p>-Login Paneli</p>
 
 
 <h1>Proje'de kullanılan Teknolojiler</h1>
