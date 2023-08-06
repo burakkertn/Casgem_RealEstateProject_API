@@ -50,4 +50,6 @@
 
 # Videolar
 
+https://github.com/burakkertn/Casgem_RealEstateProject_API/assets/99614754/6c76421d-fba1-4aad-adaf-27a4207555f0
+
 
